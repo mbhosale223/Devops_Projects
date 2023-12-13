@@ -1,5 +1,7 @@
 # Devops_Projects
-Devops_Projecmaven project
+Devops_Project
+
+maven project
 
 Introduction This is a minimal Java project for  word length calculator. The main purpose of this project is to provide a starting point for Java development with which we can count the length of the string.
 
